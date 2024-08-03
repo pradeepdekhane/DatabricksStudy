@@ -123,3 +123,8 @@ dbutils.fs.mv(f"file://///dbfs/order_stream/", f"/importGithub/order_stream", re
 # COMMAND ----------
 
 deltastream.stop()
+
+# COMMAND ----------
+
+# MAGIC %md
+# MAGIC End of file
